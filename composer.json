@@ -1,0 +1,16 @@
+`{
+    "name": "haoshuai8008/demo2",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hao shuai",
+            "email": "77683175@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
